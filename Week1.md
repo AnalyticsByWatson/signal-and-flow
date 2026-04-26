@@ -25,5 +25,5 @@ Capital is allocating into a narrow set of high-conviction areas—primarily AI 
 Market performance is selective, not uniform
 Returns are being driven by a small number of dominant themes
 Higher interest rates continue to impact everyday costs (credit cards, loans, housing), even alongside rising stock prices
-## ’ll be publishing this weekly to continue refining how I analyze markets and connect data to real-world outcomes.
+## I will be publishing this weekly to continue refining how I analyze markets and connect data to real-world outcomes.
 
