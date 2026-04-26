@@ -25,11 +25,6 @@ Each report combines data visualization with concise analysis to identify high-c
 ### Week 1  
 [View Full Report](Week1.md)
 
-#### Charts
-![S&P 500](images:sp500_week1.png)
-
-![Sector Rotation](images:sector_rotation_week1.png)
-
 ---
 
 ## Tools Used
