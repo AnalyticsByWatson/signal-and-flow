@@ -1,4 +1,4 @@
-# Signal & Flow — by SW
+ # Signal & Flow — by SW
 
 A weekly, data-driven analysis of financial markets, macro trends, and capital flows.
 
@@ -20,10 +20,10 @@ Each report combines data visualization with concise analysis to identify high-c
 
 ---
 
-## Reports
 
-### Week 1
-[View Report](Week1.md)
+#### Charts
+- [S&P 500 Weekly Trend](images/sp500_week1.png)  
+- [Sector Rotation — Weekly Performance](images/sector_rotation_week1.png)
 
 ---
 
