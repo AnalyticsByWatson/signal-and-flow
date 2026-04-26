@@ -24,18 +24,8 @@ Each report combines data visualization with concise analysis to identify high-c
 
 ## 📄 Reports
 
-### 📅 Week 1  
+### 📅 Week 1  / ## 📊 Supporting Visuals
 🔗 [View Full Report](Week1.md)
-
----
-
-## 📊 Supporting Visuals
-
-### 📈 S&P 500 — Weekly Trend
-![S&P 500 Weekly Trend](sp500_week1.png)
-
-### 🌊 Sector Rotation — Weekly Performance
-![Sector Rotation — Weekly Performance](sector_rotation_week1.png)
 
 ---
 
